@@ -1,7 +1,7 @@
 Implimentation of MergeSort Algorithm:
 
 Introduction:
-In this assignment, we'll explore how to use merge sort with a practical example in simple terms. Merge sort is like organizing a your stuff neatly to find it easily.
+In this assignment, We learn how to use merge sort with a practical example in simple terms. Merge sort is like organizing a your stuff neatly to find it easily.
 
 Assignment:
 Imagine we have a list of employee details like their ID, name, salary, and performance rating. We want to sort based on their salary using merge sort.
