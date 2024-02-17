@@ -9,6 +9,12 @@ Two CSV files of patients sorted by age, and you need to merge them into one fil
 - Ensure any remaining records from both files are added to the merged data array.
 - Write the merged data to the output file, ensuring it is sorted by age.
 
+ ## Step to run code:
+  - Download the input files and script from github.
+  - put the script and file in one folder
+  - open script using VS Code
+  - run the code
+
 ## Learning from Assignments:
 
 1. learning function in javascript.
